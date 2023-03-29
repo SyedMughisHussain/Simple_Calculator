@@ -1,6 +1,6 @@
-# calculator
+# Simple Calculator
 
-A new Flutter project.
+Build Using Flutter frameWork.
 
 ## Getting Started
 
